@@ -6,8 +6,6 @@ A modernized, aesthetic version of the classic Tic-Tac-Toe game built entirely i
 
 Unlike standard Swing applications, this project uses **custom component rendering** (Graphics2D) to create neon glow effects, smooth scaling animations, and a flat, dark-mode UI.
 
-![Game Screenshot](https://via.placeholder.com/600x400?text=Insert+Game+Screenshot+Here)
-*(Replace this link with a screenshot of your game running!)*
 
 ## ✨ Features
 
