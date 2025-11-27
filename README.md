@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-A modernized, aesthetic version of the classic Tic-Tac-Toe game built entirely in **Java Swing**. 
+A modernized, aesthetic version of the classic Tic-Tac-Toe game built entirely in **Java Swing**
 
 Unlike standard Swing applications, this project uses **custom component rendering** (Graphics2D) to create neon glow effects, smooth scaling animations, and a flat, dark-mode UI.
 
